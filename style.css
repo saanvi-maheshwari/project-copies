@@ -38,3 +38,7 @@ color: darkorange;
 .movie_head i{
     float: right;
 }
+.image-responsive{
+  width: 263px;
+    height: 336px;
+}
